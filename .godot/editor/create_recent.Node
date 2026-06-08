@@ -1,0 +1,14 @@
+VBoxContainer
+Label
+CanvasLayer
+Panel
+HBoxContainer
+ScrollContainer
+VScrollBar
+RichTextLabel
+TextureButton
+Button
+Control
+SubViewport
+TextureRect
+Sprite2D
